@@ -13,7 +13,7 @@ Realtime fully responsive Anonymous Chat App With Users & Rooms - Socket.io, Nod
 
 ![Screenshot 2021-07-17 210709](https://user-images.githubusercontent.com/67598673/126042239-333342b4-3a6e-4e46-b701-374a98310ec3.png)
 
-## steps to run 
+## Steps to run 
 
 Like every other node based project just clone it and run `npm install`
 this will install all dependencies including dev dependencies.
@@ -23,7 +23,7 @@ now to run <br />
 or to run for dev <br />
 `npm run dev` (will start nodemon)
 
-### brief details
+### Brief details
 
 Realtime fully responsive Anonymous Chat App With Users & Rooms. <br />
 Socket.io is used here for bidirectional and event-based communication from server to client and vice versa.,  <br />
